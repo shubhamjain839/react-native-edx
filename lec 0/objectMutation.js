@@ -1,6 +1,7 @@
 const o = {
   a: 'a',
-  b: 'b'
+  b: 'b',
+  c: 'c'
 };
 const o2 = Object.assign({}, o);
 o.a = 'neew';
